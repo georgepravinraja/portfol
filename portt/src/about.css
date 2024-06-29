@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
+
+.about {
+    background-color:	#DC143C	;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 30px;
+}
+
+.mar {
+    text-align: center;
+    padding-top: 40px;
+    color: black;
+}
+
+.about-heading {
+    padding-top: 40px;
+    color: black;
+}
+
+.about-description {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.car {
+    margin-top: 30px;
+}
+
+.section-title {
+    color: black;
+    font-size: 40px;
+}
+
+.text, .card-text {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.custom-card {
+    background-color: blue;
+    margin-top: 20px;
+}
+
+.card2 {
+    background-image: url('/public/block.jpg');
+    color: white;
+    margin-top: 20px;
+}
+
+.caa {
+    margin-top: 30px;
+}
+.card-subtitle{
+    color:yellowgreen;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+h6{
+    font-size: 25px;
+    color: black;
+    margin-top: 20px;
+}
+

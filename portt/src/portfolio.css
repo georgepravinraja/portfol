@@ -1,0 +1,22 @@
+/* src/Card.css */
+.card {
+    width: 400px;
+    padding: 20px;
+    height: 250px;
+    margin-top: 250px;
+    background-color: grey;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  .boody{
+    background-color:#DC143C	;
+    height: 640px;
+  }
+  
